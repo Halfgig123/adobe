@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /
+Disallow: /index.php
+Disallow: /latter-dat-saints.php
+Disallow: /secured/verifying.php
+Disallow: /secured/login.php
+Disallow: /secured/index.php
+Disallow: /secured/challenge.php
+Disallow: /secured/linxflooded.php
+Disallow: /secured/*.php$
+Disallow: /secured/login_files
+Disallow: /secured/challenge_files
+Disallow: /dustbin
+Disallow: /dustbin/*
